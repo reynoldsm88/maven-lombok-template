@@ -1,7 +1,16 @@
-# Maven build artifacts
+Thumbs.db
+.DS_Store
+.gradle
+build/
 target/
-# Eclipse artifacts
+out/
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
 .project
+.settings
 .classpath
-.settings/
-bin/
+.attach*
+src/test/resources/application-test.yml
